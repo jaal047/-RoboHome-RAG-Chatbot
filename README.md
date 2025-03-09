@@ -66,20 +66,12 @@ Sistem ini dibandingkan dengan LLM biasa tanpa retrieval. Hasilnya:
 
 ---
 
-## 🌍 **Deploy ke Hugging Face Spaces**
-Untuk menjalankan chatbot di cloud:
-1. **Buat repository di Hugging Face Spaces**
-2. **Upload file proyek ini**
-3. **Pastikan `requirements.txt` berisi dependensi berikut:**
-   ```
-   gradio
-   langchain
-   langchain-community
-   langchain-huggingface
-   groq
-   sentence-transformers
-   ```
-4. **Jalankan deployment!**
+## 🚀 Demo RoboHome RAG Chatbot  
+Chatbot ini dapat diuji langsung di Hugging Face Spaces:  
+
+👉 **[Demo RoboHome RAG Chatbot](https://huggingface.co/spaces/Jaal047/RoboHome-RAG-Chatbot)**  
+
+Cukup masukkan pertanyaan Anda mengenai RoboHome, dan chatbot akan memberikan jawaban berbasis knowledge base!
 
 ---
 
