@@ -1,0 +1,11 @@
+huggingface_hub==0.25.2
+gradio
+langchain
+langchain-community
+faiss-cpu
+torch
+transformers
+numpy
+sentence-transformers
+groq
+langchain_huggingface
