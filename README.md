@@ -13,14 +13,15 @@ RoboHome RAG Chatbot adalah sistem chatbot berbasis **Retrieval-Augmented Genera
 ## 📂 Struktur Proyek
 ```
 robohome-rag-chatbot/
-├── app.py                 # Kode utama chatbot (Gradio + FAISS + Groq API)
-├── requirements.txt       # Daftar dependensi
-├── faiss_index/           # Folder penyimpanan FAISS index
+├── app.py                         # Kode utama chatbot (Gradio + FAISS + Groq API)
+├── requirements.txt               # Daftar dependensi
+├── Notebook_Pengerjaan.ipynb      # Notebook Pengerjaan
+├── faiss_index/                   # Folder penyimpanan FAISS index
 │   ├── index.faiss
-├── data/                  # Dataset untuk chatbot
-│   ├── robohome_synthetic.pdf  # Manual pengguna RoboHome (sintetik)
-│   ├── robohome_synthetic.sql  # Database RoboHome (sintetik)
-├── README.md              # Dokumentasi proyek
+├── data/                          # Dataset untuk chatbot
+│   ├── robohome_synthetic.pdf     # Manual pengguna RoboHome (sintetik)
+│   ├── robohome_synthetic.sql     # Database RoboHome (sintetik)
+├── README.md                      # Dokumentasi proyek
 ```
 
 ---
