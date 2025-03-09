@@ -86,4 +86,4 @@ Untuk menjalankan chatbot di cloud:
 ## 📩 **Kontak & Kontribusi**
 Jika ingin berkontribusi atau melaporkan bug, silakan buka **issue** atau ajukan **pull request**.
 
-📧 **Email**: oskar@vidavox.ai | ariansyah@vidavox.ai
+📧 **Email**: rijal.akhdan.khairullah@gmail.com
