@@ -30,7 +30,7 @@ robohome-rag-chatbot/
 ### 1️⃣ **Clone repository ini**
 ```bash
 https://github.com/jaal047/RoboHome-RAG-Chatbot.git
-cd robohome-rag-chatbot
+cd RoboHome-RAG-Chatbot
 ```
 
 ### 2️⃣ **Install dependencies**
