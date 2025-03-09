@@ -29,7 +29,7 @@ robohome-rag-chatbot/
 
 ### 1️⃣ **Clone repository ini**
 ```bash
-git clone https://github.com/USERNAME/robohome-rag-chatbot.git
+https://github.com/jaal047/RoboHome-RAG-Chatbot.git
 cd robohome-rag-chatbot
 ```
 
